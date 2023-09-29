@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Bitter', serif
+}
+
+body {
+    background-color: rgb(243, 238, 238);
+}
+
+
+h1 h2 h3 h4 {
+    font-family: 'Bitter', serif;
+}
+
