@@ -14,3 +14,48 @@ h1 h2 h3 h4 {
     font-family: 'Bitter', serif;
 }
 
+.menu {
+    display: flex;
+    justify-content: space-between;
+    max-height: 100%px;
+    max-width: 100%;
+    min-width: none;
+    min-height: auto;
+    height: 90px;
+    align-items: center;
+    background-color: #5ea5e8;
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.nav{text-align: center;  
+
+
+height: 50px;
+
+width: 150px;}
+
+.left-side-menu {
+    display: flex;
+    margin-right: 100px;
+    gap: 200px;
+    text-align: center;
+}
+
+
+.right-side-menu {
+    display: flex;
+    margin-right: 0px;
+    align-items: center;
+    gap: 50px
+}
