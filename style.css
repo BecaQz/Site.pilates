@@ -23,7 +23,7 @@ h1 h2 h3 h4 {
     min-height: auto;
     height: 90px;
     align-items: center;
-    background-color: #5ea5e8;
+    background-color: #a00e0e;
 }
 
 
@@ -39,10 +39,7 @@ nav ul li a {
 
 
 .nav{text-align: center;  
-
-
 height: 50px;
-
 width: 150px;}
 
 .left-side-menu {
@@ -59,3 +56,25 @@ width: 150px;}
     align-items: center;
     gap: 50px
 }
+
+.carousel-control-prev-icon{color: black;}
+
+.p3{display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-height: 100%;
+    max-width: 100%px;
+background: #ffffff;}
+
+.text3{margin: 100px;
+height: 100px;
+padding: 100px;
+max-height: 100%;
+max-width: 100%;}
+
+
+.p3 img {border-radius: 50%;
+margin-top: 150px;
+margin-left: 100px;
+margin-inline-end: ;
+ }
